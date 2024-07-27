@@ -13,4 +13,13 @@
 > I almost forgot this README is a thing, fixing everything one by one because something happens...
 >
 > You will see something here maybe later or sooner...
->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="SVG/DEV/js.svg" style="max-width: 100%; margin: 0 10px; display: inline-block;">
+  <img src="SVG/DEV/python.svg" style="max-width: 100%; margin: 0 10px; display: inline-block;">
+</div>
+
+- [x] Added information  
+- [ ] Resolve all issues with this README
+
+> [!TIP]
+> i just exist to test stuff
